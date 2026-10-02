@@ -1,0 +1,5 @@
+기술,설명
+LangChain,LLM 애플리케이션 개발 프레임워크
+LangGraph,그래프 기반 멀티 에이전트 워크플로우
+RAG,검색 증강 생성 기술
+FAISS,Facebook의 벡터 유사도 검색 라이브러리
